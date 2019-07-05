@@ -28,4 +28,5 @@
 (put 'make' polynomial
      (lambda (var terms) (tag(make-poly var terms))))
 'done)
-
+(define (add-terms L1) L2) 
+	   
